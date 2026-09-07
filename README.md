@@ -1,0 +1,1 @@
+Collection of notes and exercises for the teaching Applied Machine Learning (DS807) of the Degree Data Science
